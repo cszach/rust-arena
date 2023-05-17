@@ -64,3 +64,5 @@ templates, respectively.
   <br/>
   _Super enjoyable. Highly recommended for everyone who's learning the basics of
   Rust regardless of how they're learning it._
+
+[rustlings]: https://github.com/rust-lang/rustlings
