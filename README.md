@@ -29,7 +29,6 @@ templates, respectively.
 - [💾 Binaries](#-mod-binaries)
 - [📹 YouTubers](#-mod-youtubers)
 - [🎤 Podcasts](#-mod-podcasts)
-- [🐦 Tweets](#-mod-tweets)
 - [🕶️ Misc.](#%EF%B8%8F-mod-misc)
 
 ## 📚 `mod books`
