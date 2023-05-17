@@ -54,8 +54,6 @@ templates, respectively.
 
 ## 🎤 `mod podcasts`
 
-## 🐦 `mod tweets`
-
 ## 🕶️ `mod misc`
 
 * [The Rustlings][rustlings] :star::star::star::star::star:: A series of small
