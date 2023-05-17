@@ -57,3 +57,10 @@ templates, respectively.
 ## 🐦 `mod tweets`
 
 ## 🕶️ `mod misc`
+
+* [The Rustlings][rustlings]: :star::star::star::star::star:: A series of small
+  Rust exercises in the form of unit tests to help you learn Rust. A great
+  companion to "the book", as the two resources have a similar curriculum.<br/>
+  <br/>
+  _Super enjoyable. Highly recommended for everyone who's learning the basics of
+  Rust regardless of how they're learning it._
