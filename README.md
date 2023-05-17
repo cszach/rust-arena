@@ -34,16 +34,15 @@ templates, respectively.
 
 ## 📚 `mod books`
 
-* [The Rust Programming Language][the book] :star: :star: :star: :star:: _The_
+* [The Rust Programming Language][the book] :star::star::star::star:: _The_
   introductory text to Rust programming for people of all programming
   experiences. The book will walk you from the very basics, to Rust's distinct
   features like ownership, borrowing, traits, generics, and lifetimes, to Cargo,
-  pattern matching, and advanced Rust.
-
-_"The book" touches on the basics of every topic inside it, just enough to get
-you started. A great explainer of everything it decides to talk about, the book
-can however gets a little wordy at times for experienced programmers. Overall,
-a strong recommendation for **anyone** who wants to get started with Rust._
+  pattern matching, and advanced Rust.<br/><br/>
+  _"The book" touches on the basics of every topic inside it, just enough to get
+  you started. A great explainer of everything it decides to talk about, the book
+  can however gets a little wordy at times for experienced programmers. Overall,
+  a strong recommendation for **anyone** who wants to get started with Rust._
 
 [the book]: https://doc.rust-lang.org/stable/book
 
